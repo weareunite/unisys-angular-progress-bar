@@ -36,7 +36,7 @@ export class UnisysAngularProgressBarComponent implements OnInit, OnChanges {
         this.class =  this.classPrefix+'danger';
       }
     }else{
-      this.class = this.classPrefix+'primary'
+      this.class = this.classPrefix+this.state
     }
   }
 
