@@ -1,6 +1,8 @@
 {
   "name": "unisys-angular-progress-bar",
   "version": "0.0.3",
+  "author": "Unite s.r.o",
+  "repository": "https://github.com/weareunite/unisys-angular-progress-bar.git",
   "peerDependencies": {
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0"
